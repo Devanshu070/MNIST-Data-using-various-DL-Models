@@ -1,1 +1,1 @@
-# MNIST-Data-using-various-DL-Models
+# MNIST-using-various-DL-Models
